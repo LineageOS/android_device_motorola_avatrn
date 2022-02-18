@@ -33,6 +33,9 @@ PRODUCT_SHIPPING_API_LEVEL := 34
 $(call inherit-product, device/motorola/sm7435-common/common.mk)
 
 # Overlay
+DEVICE_PACKAGE_OVERLAYS += \
+    $(LOCAL_PATH)/overlay-lineage
+
 PRODUCT_PACKAGES += \
     FrameworksResAvatrn \
     LineageSystemUIAvatrn \
