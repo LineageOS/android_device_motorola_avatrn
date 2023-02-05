@@ -50,7 +50,8 @@ PRODUCT_COPY_FILES += \
 
 # Fingerprint
 PRODUCT_PACKAGES += \
-    android.hardware.biometrics.fingerprint@2.3-service.moto
+    android.hardware.biometrics.fingerprint@2.3-service.moto \
+    libudfpshandler_moto
 
 # Init
 PRODUCT_PACKAGES += \
