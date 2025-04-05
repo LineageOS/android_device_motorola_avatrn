@@ -57,6 +57,10 @@ PRODUCT_PACKAGES += \
     init.mmi.overlay.rc \
     init.vendor.st21nfc.rc
 
+# Lights
+PRODUCT_PACKAGES += \
+    android.hardware.light-service.lineage
+
 # LiveDisplay
 $(call soong_config_set_bool,livedisplay_sysfs,enable_af,true)
 
