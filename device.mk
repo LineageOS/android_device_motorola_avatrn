@@ -72,6 +72,10 @@ PRODUCT_PACKAGES += \
 
 $(call soong_config_set,lineage_powershare,powershare_path,/sys/class/power_supply/wireless/device/tx_mode)
 
+# Properties
+PRODUCT_PACKAGES += \
+    hardware.sku.XT2405V.prop
+
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += $(LOCAL_PATH)
 
