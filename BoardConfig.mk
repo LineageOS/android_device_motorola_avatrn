@@ -22,12 +22,6 @@ include device/motorola/sm7435-common/BoardConfigCommon.mk
 # Bootloader
 TARGET_BOOTLOADER_BOARD_NAME := avatrn
 
-# HIDL
-ODM_MANIFEST_SKUS += dn
-ODM_MANIFEST_DN_FILES := $(DEVICE_PATH)/manifests/manifest_dn.xml
-ODM_MANIFEST_SKUS += n
-ODM_MANIFEST_N_FILES := $(DEVICE_PATH)/manifests/manifest_n.xml $(COMMON_PATH)/manifest_ss.xml
-
 # Kernel
 TARGET_KERNEL_CONFIG += \
 	vendor/ext_config/moto-parrot-avatrn.config
