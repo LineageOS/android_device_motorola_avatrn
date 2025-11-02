@@ -78,9 +78,9 @@ PRODUCT_SOONG_NAMESPACES += $(LOCAL_PATH)
 # VINTF
 ODM_MANIFEST_SKUS += dn n
 ODM_MANIFEST_DN_FILES := \
-    $(LOCAL_PATH)/manifests/manifest_dn.xml
+    $(LOCAL_PATH)/vintf/manifest_dn.xml
 ODM_MANIFEST_N_FILES := \
-    $(LOCAL_PATH)/manifests/manifest_n.xml \
+    $(LOCAL_PATH)/vintf/manifest_n.xml \
     device/motorola/sm7435-common/vintf/manifest_ss.xml
 
 # Inherit from vendor blobs
