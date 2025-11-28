@@ -6,4 +6,4 @@ ro.telephony.esim_slot_id=1
 ro.vendor.product.display=motorola edge 2024
 
 # Radio
-ro.vendor.radio.imei.sv=13
+ro.vendor.radio.imei.sv=16
