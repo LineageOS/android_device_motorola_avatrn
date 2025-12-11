@@ -31,12 +31,6 @@ blob_fixups: blob_fixups_user_type = {
         'vendor.qti.hardware.display.config-V2-ndk_platform.so',
         'vendor.qti.hardware.display.config-V2-ndk.so',
     ),
-    (
-        'vendor/lib64/camera/components/com.qti.node.dewarp.so',
-        'vendor/lib64/camera/components/com.vidhance.node.ica.so',
-        'vendor/lib64/camera/components/com.vidhance.node.processing.so',
-    ): blob_fixup()
-        .replace_needed('libui.so', 'libui-v34.so'),
 }
 
 extract_fns: extract_fns_user_type = {
