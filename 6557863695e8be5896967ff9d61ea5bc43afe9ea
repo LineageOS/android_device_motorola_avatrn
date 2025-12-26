@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "07ea6efc_749b2312",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 19979
+      },
+      "writtenOn": "2025-12-26T22:10:22Z",
+      "side": 1,
+      "message": "@bgcngm@gmail.com should I switch the over to use libtinyxml2-v34? Or is the current impl fine in this case?",
+      "revId": "6557863695e8be5896967ff9d61ea5bc43afe9ea",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
