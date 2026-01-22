@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d370172b_ac2f30ea",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 35850
+      },
+      "writtenOn": "2026-01-22T15:13:15Z",
+      "side": 1,
+      "message": "```suggestion\nCommon are set to 200, set devices to 250.\n```",
+      "revId": "c78ab3820399a56550f8d87a6e7fc9eac26e42bc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
