@@ -23,6 +23,7 @@ include device/motorola/sm7435-common/BoardConfigCommon.mk
 TARGET_BOOTLOADER_BOARD_NAME := genevn
 
 # Kernel
+BOARD_KERNEL_CMDLINE += androidboot.selinux=permissive
 TARGET_KERNEL_CONFIG += \
 	vendor/ext_config/moto-parrot-genevn.config
 
