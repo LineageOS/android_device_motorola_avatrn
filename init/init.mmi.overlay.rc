@@ -1,5 +1,3 @@
-import /vendor/etc/init/hw/init.vendor.st21nfc.rc
-
 on fs
     insmod /vendor/lib/modules/goodix_fod_mmi.ko
     #zram wb

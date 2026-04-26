@@ -53,12 +53,11 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     fstab.qcom \
     fstab.qcom.vendor_ramdisk \
-    init.mmi.overlay.rc \
-    init.vendor.st21nfc.rc
+    init.mmi.overlay.rc
 
 # NFC
 PRODUCT_PACKAGES += \
-    android.hardware.nfc-service.st \
+    android.hardware.nfc-service.nxp \
     com.android.nfc_extras \
     Tag
 
