@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "01508b13_8b4448f5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2026-06-16T00:05:37Z",
+      "side": 1,
+      "message": "This is just ./extract-files.py --regenerate XT2405-1_AVATRN_RETUS_15_V1UANS35H.98-24-3_subsidy-DEFAULT_regulatory-DEFAULT_cid50_CFC.xml.zip and has no diff with current vendor",
+      "revId": "19875134142ad2e40e7cfa9e8ed8f2fb7b8cf9cb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
