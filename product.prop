@@ -9,7 +9,7 @@ ro.vendor.product.display=motorola edge 2024
 ro.opa.device_model_id=motorola-avatrn
 
 # Radio
-ro.vendor.radio.imei.sv=18
+ro.vendor.radio.imei.sv=21
 
 # SKU specific properties
 import /product/etc/hardware.sku.${ro.boot.hardware.sku}.prop
