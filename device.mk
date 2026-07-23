@@ -54,8 +54,6 @@ PRODUCT_PACKAGES += \
 
 # Init
 PRODUCT_PACKAGES += \
-    fstab.qcom \
-    fstab.qcom.vendor_ramdisk \
     init.mmi.overlay.rc \
     init.vendor.st21nfc.rc
 
