@@ -35,5 +35,5 @@ PRODUCT_GMS_CLIENTID_BASE := android-motorola
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     DeviceProduct="avatrn_g" \
-    BuildDesc="avatrn_g-user 16 W1UAN36H.29-25 a3ee7a-ab45e7 release-keys" \
-    BuildFingerprint="motorola/avatrn_g/avatrn:16/W1UAN36H.29-25/a3ee7a-ab45e7:user/release-keys"
+    BuildDesc="avatrn_g-user 16 W1UANS36H.29-25-2-4 97493-125cc1 release-keys MW-413" \
+    BuildFingerprint="motorola/avatrn_g/avatrn:16/W1UANS36H.29-25-2-4/97493-125cc1:user/release-keys"
